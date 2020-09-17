@@ -1,0 +1,76 @@
+
+1월 16, 2020 12:36:58.69 NEW SESSION
+1월 16, 2020 12:36:58.69 
+1월 16, 2020 12:36:58.71 KLIB_SelfTest return : KLR_OK
+1월 16, 2020 13:04:09.61 [19820:9724:0116/130409.616:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+1월 16, 2020 13:04:25.74 [19820:9724:0116/130425.742:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+1월 16, 2020 13:05:36.85 [19820:9724:0116/130536.853:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -118
+1월 16, 2020 13:05:46.63 [19820:9724:0116/130546.631:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+1월 16, 2020 13:06:05.36 [19820:9724:0116/130605.368:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+1월 16, 2020 14:16:38.40 [19820:9724:0116/141638.408:ERROR:socket_stream.cc(218)] Closing stream with result -2
+1월 16, 2020 14:16:49.90 [19820:9724:0116/141649.901:ERROR:socket_stream.cc(218)] Closing stream with result -2
+1월 16, 2020 14:17:36.45 [19820:9724:0116/141736.452:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -101
+1월 16, 2020 14:20:16.36 [19820:9724:0116/142016.366:ERROR:socket_stream.cc(218)] Closing stream with result -2
+1월 16, 2020 14:21:33.30 [19820:9724:0116/142133.300:ERROR:socket_stream.cc(218)] Closing stream with result -2
+1월 16, 2020 14:21:35.30 [19820:9724:0116/142135.309:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -21
+1월 16, 2020 14:24:46.55 [19820:9724:0116/142446.554:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -7
+
+1월 17, 2020 13:45:25.54 NEW SESSION
+1월 17, 2020 13:45:25.54 
+1월 17, 2020 13:45:25.56 KLIB_SelfTest return : KLR_OK
+1월 17, 2020 13:46:08.87 
+1월 17, 2020 13:46:08.89 KLIB_SelfTest return : KLR_OK
+1월 17, 2020 14:05:54.75 
+1월 17, 2020 14:05:54.78 KLIB_SelfTest return : KLR_OK
+1월 17, 2020 14:51:09.37 [12680:7568:0117/145109.370:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+1월 17, 2020 14:51:36.73 [12680:7568:0117/145136.739:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+
+1월 20, 2020 13:35:47.01 NEW SESSION
+1월 20, 2020 13:35:47.01 
+1월 20, 2020 13:35:47.03 KLIB_SelfTest return : KLR_OK
+1월 20, 2020 13:48:07.44 
+1월 20, 2020 13:48:07.45 KLIB_SelfTest return : KLR_OK
+1월 20, 2020 13:53:59.22 
+1월 20, 2020 13:53:59.48 KLIB_SelfTest return : KLR_OK
+1월 20, 2020 13:56:06.18 
+1월 20, 2020 13:56:06.24 KLIB_SelfTest return : KLR_OK
+1월 20, 2020 13:56:59.66 
+1월 20, 2020 13:56:59.68 KLIB_SelfTest return : KLR_OK
+1월 20, 2020 14:04:35.90 
+1월 20, 2020 14:04:36.03 KLIB_SelfTest return : KLR_OK
+
+1월 20, 2020 14:10:22.36 NEW SESSION
+1월 20, 2020 14:10:22.36 
+1월 20, 2020 14:10:22.37 KLIB_SelfTest return : KLR_OK
+1월 20, 2020 14:11:33.36 
+1월 20, 2020 14:11:33.37 KLIB_SelfTest return : KLR_OK
+1월 20, 2020 14:13:17.35 
+1월 20, 2020 14:13:17.36 KLIB_SelfTest return : KLR_OK
+1월 20, 2020 14:39:03.68 
+1월 20, 2020 14:39:03.76 KLIB_SelfTest return : KLR_OK
+
+1월 21, 2020 13:37:53.14 NEW SESSION
+1월 21, 2020 13:37:53.14 
+1월 21, 2020 13:37:53.17 KLIB_SelfTest return : KLR_OK
+1월 21, 2020 13:54:52.63 
+1월 21, 2020 13:54:52.69 KLIB_SelfTest return : KLR_OK
+1월 21, 2020 13:55:09.15 
+1월 21, 2020 13:55:09.18 KLIB_SelfTest return : KLR_OK
+1월 21, 2020 13:59:21.73 
+1월 21, 2020 13:59:21.75 KLIB_SelfTest return : KLR_OK
+1월 21, 2020 14:07:33.95 
+1월 21, 2020 14:07:33.98 KLIB_SelfTest return : KLR_OK
+1월 21, 2020 14:08:13.05 
+1월 21, 2020 14:08:13.07 KLIB_SelfTest return : KLR_OK
+1월 21, 2020 14:46:35.11 
+1월 21, 2020 14:46:35.28 KLIB_SelfTest return : KLR_OK
+
+1월 29, 2020 13:27:45.37 NEW SESSION
+1월 29, 2020 13:27:45.37 
+1월 29, 2020 13:27:45.38 KLIB_SelfTest return : KLR_OK
+1월 29, 2020 13:55:38.82 
+1월 29, 2020 13:55:38.86 KLIB_SelfTest return : KLR_OK
+1월 29, 2020 14:09:29.44 
+1월 29, 2020 14:09:29.49 KLIB_SelfTest return : KLR_OK
+1월 29, 2020 14:20:06.20 
+1월 29, 2020 14:20:06.30 KLIB_SelfTest return : KLR_OK
